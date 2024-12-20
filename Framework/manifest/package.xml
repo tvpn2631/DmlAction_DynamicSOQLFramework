@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+<types>
+<members>CEConstants</members>
+<members>CEConstantsTest</members>
+<members>CECreateEventandDirective</members>
+<members>CEEventDirectiveHandler</members>
+<members>CEEventDirectiveHandlerTest</members>
+<members>CEUtils</members>
+<members>DateTimeTransformer</members>
+<members>DmlAction</members>
+<members>DynamicSOQLBuilder</members>
+<members>IDmlAction</members>
+<members>IDynamicSOQL</members>
+<name>ApexClass</name>
+</types>
+<version>62.0</version>
+</Package>
